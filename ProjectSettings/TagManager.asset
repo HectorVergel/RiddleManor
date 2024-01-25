@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Mirror
+  - LightTrigger
+  - CharacterController
+  - BookAttractor
+  - Book
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Outline
+  - Rope
+  - OnlyMirror
+  - NoMirror
+  - Book
+  - CamIgnore
+  - Character
+  - EventCollider
+  - NoBeam
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: UI
+    uniqueID: 2340077317
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
